@@ -26,6 +26,11 @@ es:
       new:
         forgot_your_password: ¿Ha olvidado su contraseña?
         send_me_reset_password_instructions: Envíeme las instrucciones para resetear mi contraseña
+      edit:
+        change_your_password: Cambiar tu contraseña
+        new_password: Nueva contraseña
+        confirm_new_password: Confirmar nueva contraseña
+        change_my_password: Cambiar mi contraseña
     registrations:
       edit:
         are_you_sure: ¿Está usted seguro?
@@ -33,6 +38,8 @@ es:
         leave_blank_if_you_don_t_want_to_change_it: dejar en blanco si no desea cambiarlo
         title: Editar %{resource}
         we_need_your_current_password_to_confirm_your_changes: necesitamos su contraseña actual para confirmar los cambios
+        update: Actualizar
+        unhappy: ¿Descontento
       new:
         sign_up: Registrarse
     sessions:
@@ -41,7 +48,7 @@ es:
     shared:
       links:
         didn_t_receive_confirmation_instructions: ¿No ha recibido las instrucciones de confirmación?
-        didn_t_receive_unlock_instructions: No ha recibido instrucciones para desbloquear?
+        didn_t_receive_unlock_instructions: ¿No ha recibido instrucciones para desbloquear?
         forgot_your_password: ¿Ha olvidado su contraseña?
         sign_in: Iniciar sésion
         sign_in_with_provider: Iniciar sésion con %{provider}

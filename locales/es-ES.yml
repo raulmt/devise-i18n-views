@@ -40,7 +40,7 @@ es:
         we_need_your_current_password_to_confirm_your_changes: necesitamos tu contraseña actual para confirmar los cambios
         update: Actualizar
         cancel_my_account: Cancelar mi cuenta
-        unhappy: Descontento
+        unhappy: ¿Descontento
       new:
         sign_up: Registrarse
     sessions:
